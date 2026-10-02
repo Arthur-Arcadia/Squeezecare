@@ -63,9 +63,9 @@ The final product concept and poster are team outputs. Other members also contri
 
 | File or folder | Purpose |
 | --- | --- |
-| [CASE-STUDY.md](CASE-STUDY.md) | Full project narrative, with emphasis on Iteration 3. |
-| [docs/EVIDENCE-NOTES.md](docs/EVIDENCE-NOTES.md) | Source index, reporting decisions, and limitations. |
-| [assets/README.md](assets/README.md) | Figure origins and captions. |
+| [Case Study](CASE-STUDY.md) | Full project narrative, with emphasis on Iteration 3. |
+| [Evidence Notes](docs/EVIDENCE-NOTES.md) | Source index, reporting decisions, and limitations. |
+| [README](assets/README.md) | Figure origins and captions. |
 | `assets/` | Original concept graphics, research figures, and team poster. |
 
 No installation or build steps are required to read these materials.
